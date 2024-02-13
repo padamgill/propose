@@ -4,7 +4,7 @@ body {
   justify-content: center;
   height: 100vh;
 /*   background: #b784db; */
-  background-image: url('WhatsApp.jpg');
+  background-image: url('https://raw.githubusercontent.com/padamgill/propose/main/WhatsApp.jpeg');
   background-size: cover; /* Adjust as needed */
   background-repeat: no-repeat; /* Adjust as needed */
 
