@@ -3,10 +3,10 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: #b784db;
-        background-image: url('WhatsApp.jpg');
-        background-size: cover; /* Adjust as needed */
-        background-repeat: no-repeat; /* Adjust as needed */
+/*   background: #b784db; */
+  background-image: url('WhatsApp.jpg');
+  background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat; /* Adjust as needed */
 
 }
 .envelope {
