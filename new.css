@@ -163,3 +163,29 @@ body {
     opacity: 0%;
   }
 }
+
+
+@media only screen and (max-width: 600px) {
+.first-text {
+  font-size: 2.4rem !important;
+}
+
+.second-text {
+  font-size: 2.1rem !important;
+
+}
+
+.third-text {
+  font-size: 1rem !important;
+
+}
+
+.fourth-text {
+  font-size: 2.4rem !important;
+
+}
+
+.fifth-text {
+  font-size: 2rem !important;
+}
+}
