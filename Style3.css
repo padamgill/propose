@@ -6,7 +6,7 @@ body {
 /*   background: #b784db; */
   background-image: url('https://raw.githubusercontent.com/padamgill/propose/main/WhatsApp.jpeg');
   background-size: contain; /* Adjust as needed */
-  background-repeat: no-repeat; /* Adjust as needed */
+/*   background-repeat: no-repeat;  */
 
 }
 .envelope {
