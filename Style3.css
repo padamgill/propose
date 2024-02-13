@@ -4,6 +4,8 @@ body {
   justify-content: center;
   height: 100vh;
   background: #b784db;
+  background-image:WhatsApp.jpeg;
+
 }
 .envelope {
   position: relative;
